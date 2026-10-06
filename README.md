@@ -1,11 +1,13 @@
 ## Hi there 👋
 
 🎓 Cursando Ciência da Computação na Universidade Federal do Rio Grande do Sul(ufrgs)
+
 📍 Rio Grande do Sul, Brasil
 
 Me chamo Lucca Maia, estou atualmente me dedicando à pesquisa e desenvolvimento, buscando aprimorar minhas habilidades de programação. Meu foco técnico está em Python e desenvolvimento de jogos unity e unreal engine. Além disso, possuo um forte interesse nas inovações tecnológicas em IA.
 
 Este GitHub é meu portfólio em construção. Aqui estou documentando alguns projetos desenvolvidos ao longo da minha jornada de estudante. Sinta-se à vontade para explorar!
+
 https://www.linkedin.com/in/lucca-maia-387000387/
 <!--
 **LuccaMaiaC/LuccaMaiaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
