@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 Cursando Ciência da Computação na Universidade Federal do Rio Grande do Sul(ufrgs)
+🎓 Cursando Ciência da Computação na Universidade Federal do Rio Grande do Sul (ufrgs)
 
 📍 Rio Grande do Sul, Brasil
 
